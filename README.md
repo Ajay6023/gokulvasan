@@ -106,9 +106,9 @@ Hyde has two branches, but only one is used for active development.
 
 ## Author
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+**Gokulvasan**
+- <https://github.com/>
+- <https://twitter.com/>
 
 
 ## License
