@@ -13,16 +13,35 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 url:              http://hyde.getpoole.com
 baseurl:          /
 
-menu:
-  - text: Portfolio
-    link: /
-    icon: ""
+
 
 author:
   name:           'Gokulvasan'
   url:            https://twitter.com/
 
-paginate:         5
+paginate:    10
+paginate_path: "/blog/page:num/"
+
+menu:
+  - text: Portfolio
+    link: /
+    icon: ""
+
+#  - text: Skills & Offers
+ #   link: /skills-and-offers
+  #  icon: ""
+#
+ # - text: Contact Me
+  #  link: /contact
+   # icon: ""
+
+  #- text: My Resume
+   # link: /resume
+    #icon: ""
+
+ # - text: Blog Posts
+  #  link: /blog
+   # icon: ""
 
 # Custom vars
 version:          2.1.0
