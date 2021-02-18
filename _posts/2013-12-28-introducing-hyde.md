@@ -24,7 +24,7 @@ In addition to the features of Poole, Hyde adds the following:
 * Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
 * [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+[Head to the readme](https://ajay6023.github.io/gokulvasan/) to learn more.
 
 ### Browser support
 
