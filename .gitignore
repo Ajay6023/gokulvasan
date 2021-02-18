@@ -1,5 +1,5 @@
 # Ignore docs files
-gh_pages
+_gh_pages
 _site
 .ruby-version
 
