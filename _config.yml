@@ -1,31 +1,12 @@
 # Dependencies
-#markdown:         redcarpet
-#highlighter:      pygments
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 #permalink:        pretty
 #relative_permalinks: true
 
-menu:
-  - text: Portfolio
-    link: /
-    icon: ""
 
-  - text: Skills & Offers
-    link: /
-    icon: ""
-
-  - text: Contact Me
-    link: /
-    icon: ""
-
-  - text: My Resume
-    link: /
-    icon: ""
-
-  - text: Blog Posts
-    link: /
-    icon: ""
 
 
 # Setup
@@ -43,6 +24,11 @@ author:
 
 paginate:    10
 paginate_path: "/blog/page:num/"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
 
 
 # Custom vars
