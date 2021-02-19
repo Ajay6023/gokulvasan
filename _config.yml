@@ -1,6 +1,7 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
+
 
 # Permalinks
 #permalink:        pretty
@@ -13,8 +14,8 @@ highlighter:      pygments
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/" target="_blank">@</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://ajay6023.github.io
+baseurl:          '/gokulvasan'
 
 
 
